@@ -1,0 +1,17 @@
+C:\Users\Borjan\Desktop\C#\C# Advance\C# Advance HomeWorks\HomeWork od 11 cas\HomeWork od 11 cas\bin\Debug\net6.0\HomeWork od 11 cas.exe
+C:\Users\Borjan\Desktop\C#\C# Advance\C# Advance HomeWorks\HomeWork od 11 cas\HomeWork od 11 cas\bin\Debug\net6.0\HomeWork od 11 cas.deps.json
+C:\Users\Borjan\Desktop\C#\C# Advance\C# Advance HomeWorks\HomeWork od 11 cas\HomeWork od 11 cas\bin\Debug\net6.0\HomeWork od 11 cas.runtimeconfig.json
+C:\Users\Borjan\Desktop\C#\C# Advance\C# Advance HomeWorks\HomeWork od 11 cas\HomeWork od 11 cas\bin\Debug\net6.0\HomeWork od 11 cas.dll
+C:\Users\Borjan\Desktop\C#\C# Advance\C# Advance HomeWorks\HomeWork od 11 cas\HomeWork od 11 cas\bin\Debug\net6.0\HomeWork od 11 cas.pdb
+C:\Users\Borjan\Desktop\C#\C# Advance\C# Advance HomeWorks\HomeWork od 11 cas\HomeWork od 11 cas\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Borjan\Desktop\C#\C# Advance\C# Advance HomeWorks\HomeWork od 11 cas\HomeWork od 11 cas\obj\Debug\net6.0\HomeWork od 11 cas.csproj.AssemblyReference.cache
+C:\Users\Borjan\Desktop\C#\C# Advance\C# Advance HomeWorks\HomeWork od 11 cas\HomeWork od 11 cas\obj\Debug\net6.0\HomeWork od 11 cas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borjan\Desktop\C#\C# Advance\C# Advance HomeWorks\HomeWork od 11 cas\HomeWork od 11 cas\obj\Debug\net6.0\HomeWork od 11 cas.AssemblyInfoInputs.cache
+C:\Users\Borjan\Desktop\C#\C# Advance\C# Advance HomeWorks\HomeWork od 11 cas\HomeWork od 11 cas\obj\Debug\net6.0\HomeWork od 11 cas.AssemblyInfo.cs
+C:\Users\Borjan\Desktop\C#\C# Advance\C# Advance HomeWorks\HomeWork od 11 cas\HomeWork od 11 cas\obj\Debug\net6.0\HomeWork od 11 cas.csproj.CoreCompileInputs.cache
+C:\Users\Borjan\Desktop\C#\C# Advance\C# Advance HomeWorks\HomeWork od 11 cas\HomeWork od 11 cas\obj\Debug\net6.0\HomeWork od 11 cas.csproj.CopyComplete
+C:\Users\Borjan\Desktop\C#\C# Advance\C# Advance HomeWorks\HomeWork od 11 cas\HomeWork od 11 cas\obj\Debug\net6.0\HomeWork od 11 cas.dll
+C:\Users\Borjan\Desktop\C#\C# Advance\C# Advance HomeWorks\HomeWork od 11 cas\HomeWork od 11 cas\obj\Debug\net6.0\refint\HomeWork od 11 cas.dll
+C:\Users\Borjan\Desktop\C#\C# Advance\C# Advance HomeWorks\HomeWork od 11 cas\HomeWork od 11 cas\obj\Debug\net6.0\HomeWork od 11 cas.pdb
+C:\Users\Borjan\Desktop\C#\C# Advance\C# Advance HomeWorks\HomeWork od 11 cas\HomeWork od 11 cas\obj\Debug\net6.0\HomeWork od 11 cas.genruntimeconfig.cache
+C:\Users\Borjan\Desktop\C#\C# Advance\C# Advance HomeWorks\HomeWork od 11 cas\HomeWork od 11 cas\obj\Debug\net6.0\ref\HomeWork od 11 cas.dll

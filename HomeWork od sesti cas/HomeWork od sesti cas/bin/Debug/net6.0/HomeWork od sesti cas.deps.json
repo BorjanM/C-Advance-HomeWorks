@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HomeWork od sesti cas/1.0.0": {
+        "runtime": {
+          "HomeWork od sesti cas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HomeWork od sesti cas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
